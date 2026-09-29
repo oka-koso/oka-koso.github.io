@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oka-koso.github.io/okayama-kosodate-navi/sitemap.xml
